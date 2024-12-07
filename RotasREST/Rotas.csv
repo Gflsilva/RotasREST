@@ -1,0 +1,9 @@
+partida,parada1,parada2,parada3,destino,valor
+GRU,BRC,SCL,ORL,CDG,40
+GRU,ORL,,,CDG,61
+GRU,,,,CDG,75
+GRU,SCL,ORL,,CDG,45
+A,B,C,D,E,10
+A,,,,B,10
+A,,,,Q,40
+r,,,,s,12
